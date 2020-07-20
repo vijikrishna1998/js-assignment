@@ -1,0 +1,7 @@
+let num = window.prompt("Enter two numbers").split(" ")
+let num1 = Number(num[0])
+let num2 = Number(num[1])
+console.log("Addition:",num1 + num2)
+console.log("Substraction:",num1 - num2)
+console.log("Multiplication:",num1 * num2)
+console.log("Division:",num1 / num2)
